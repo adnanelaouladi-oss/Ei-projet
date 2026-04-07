@@ -221,8 +221,7 @@ export const Flower3D = ({ onPetalClick }: Flower3DProps) => {
       <div className={`absolute bottom-0 left-0 right-0 text-center pointer-events-none transition-opacity duration-300 ${
         isTransitioning ? "opacity-0" : "opacity-100"
       }`}>
-        <p className="text-white/60 text-sm md:text-base tracking-wide">
-          استكشف الموضوع من خلال تفاعل الزهرة
+        <p className="text-white/60 text-sm md:text-base tracking-wide"> 
         </p>
       </div>
 
