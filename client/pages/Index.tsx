@@ -46,9 +46,6 @@ export default function Index() {
         {/* Center text above flower */}
         <div className="absolute inset-0 flex flex-col items-center justify-center pointer-events-none z-20 px-4">
           <div className="text-center max-w-2xl">
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white drop-shadow-lg mb-2 break-words">
-              الإيمان وعمارة الأرض
-            </h2>
             <p className="text-white/60 text-xs sm:text-sm md:text-base">
                 موقع لتقديم درس الايمان و عمارة الارض 
               من تطوير عدنان بلخدير
