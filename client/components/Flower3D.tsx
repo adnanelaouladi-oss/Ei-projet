@@ -222,6 +222,9 @@ export const Flower3D = ({ onPetalClick }: Flower3DProps) => {
         isTransitioning ? "opacity-0" : "opacity-100"
       }`}>
         <p className="text-white/60 text-sm md:text-base tracking-wide"> 
+          إشراف: أستاذ أحمد الروينكو
+إعداد: عدنان بلخدير
+تقديم: عدنان بلخدير / آية التمري
         </p>
       </div>
 
