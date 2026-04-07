@@ -50,7 +50,8 @@ export default function Index() {
               الإيمان وعمارة الأرض
             </h2>
             <p className="text-white/60 text-xs sm:text-sm md:text-base">
-              استكشف الموضوع من خلال تفاعل الزهرة
+                موقع لتقديم درس الايمان و عمارة الارض 
+              من تطوير عدنان بلخدير
             </p>
           </div>
         </div>
